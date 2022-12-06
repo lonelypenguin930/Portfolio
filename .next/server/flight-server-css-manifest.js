@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/dollarzhu/Documents/GitHub/React-Studio/Portfolio/app/page":["/Users/dollarzhu/Documents/GitHub/React-Studio/Portfolio/styles/globals.css"]},"/Users/dollarzhu/Documents/GitHub/React-Studio/Portfolio/app/layout.js":["/Users/dollarzhu/Documents/GitHub/React-Studio/Portfolio/styles/globals.css"]}
